@@ -1,0 +1,12 @@
+$ python enron.py
+
+Preparing to train 1500 spam files
+Trained 1500 files
+Preparing to train 3672 ham files
+Trained 3672 files
+Preparing to test 3675 spam files from corpus2.
+Preparing to test 1500 ham files from corpus2.
+[corpus2]: processed 5175 documents, 90.318841% accurate
+Preparing to test 4500 spam files from corpus3.
+Preparing to test 1500 ham files from corpus3.
+[corpus3]: processed 6000 documents, 85.533333% accurate
