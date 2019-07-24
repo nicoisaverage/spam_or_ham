@@ -1,6 +1,6 @@
 # Naive Bayes Classifier w/ Improvements
 
-Simple Naive Bayes classifier built to detect spam or ham in the Enron spam corpus. Wrapper for kyotocabinet.db was written by @coleifer. 
+Improvements to simple Naive Bayes classifier built to detect spam or ham in the Enron spam corpus. Wrapper for kyotocabinet.db was written by @coleifer. 
 
 Base Classifier Accuracy: 85.33%
 
